@@ -1,26 +1,35 @@
-# KNIGHT DOJO 🏯⚔️🥷
+# DIRLAB 🏯⚔️🥷
+Playground. Tools. Research. Knowledge.
+Build 👷 • Break ⚡ • Secure 🔐
+
 <img src="/knight.png"/>
 
+DIRLAB (Digital Intelligence & Research Laboratory) is a cybersecurity laboratory and technology ecosystem where security minds explore, build, break, and solve through hands-on experimentation, research, engineering, and creative problem-solving.
 
+From software and hardware security to CTFs, IoT, research, technical content, and live demonstrations, DIRLAB creates practical environments where individuals and teams can turn curiosity into knowledge and ideas into working solutions.
 
-Knight Dojo 🏯 is a dynamic cybersecurity platform where individual players and teams dive into immersive hands-on activities such as Capture the Flag (CTF) challenges spanning both hardware and software domains. Beyond the digital battlefield, Knight Dojo powers real-world engagement with events like conferences, meetups, and casual hangouts. 
+Beyond the laboratory, DIRLAB extends into conferences, meetups, workshops, exhibitions, and community-driven experiences designed to connect researchers, hackers, developers, engineers, creators, and technology enthusiasts.
 
-All efforts are aimed at building a strong, skilled, and collaborative cybersecurity community.
+Everything we do is driven by one goal: building a stronger, more capable, and more collaborative security ecosystem.
 
-## Where Cyber Knights Train to Conquer⚔️
-⠀⠀⠀⠀⠀⠀⠀
+## Where Security Minds Explore, Build & Solve. 🧠
 
-## Digital Battlefield Kōbō:
-- Code Katana Kōbō > {Software Base CTF}
-- Samurai Solder Kōbō > {Hardware base CTF}
-- Battle of the Clans Kōbō > {Team-based Battles}
-- The Ronin Chamber Kōbō > {Escape Room}
-- The Gaiden Arena Kōbō > {Interactive Challenge}
-- Knight Core Kōbō > {Device Hacking & IoT}
-- Shadow Web Kōbō > {Web Application CTF}
-- Samurai Ghost Kōbō > {AI & Malware Evasion}
+## Playground
 
-## KN1GHT CLAN:
+ - Build Lab → {Software, Hardware & Security Tool Development}
+ - Break Lab → {Ethical Hacking, Security Testing & Attack Simulation}
+ - CTF Arena → {Capture The Flag Challenges}
+ - Hardware Lab → {Hardware Security, Embedded Systems & IoT}
+ - Research Lab → {Cybersecurity Research & Technical Investigation}
+ - Challenge Lab → {Interactive Challenges & Problem-Solving}
+ - Escape Lab → {Cybersecurity Escape Rooms & Immersive Experiences}
+ - Web Lab → {Web & API Security Challenges}
+ - Malware Lab → {Malware Analysis & Adversarial Research}
+ - Creator Lab → {Technical Content, Walkthroughs, Demonstrations & Media}
+ - Defense Lab → {Detection, Threat Hunting & Defensive Security}
+ - DIRLAB Village → {Live Demonstrations, Workshops, Exhibitions & Community Experiences}
+
+## CLAN:
 - CTF Team Lead / Lead Dev:
  [Th3_se3k3r](https://github.com/Th3-Seek3r)
 
