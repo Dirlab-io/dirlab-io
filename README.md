@@ -1,6 +1,6 @@
 # DIRLAB 🏯⚔️🥷
 Playground. Tools. Research. Knowledge.
-Build 👷 • Break ⚡ • Secure 🔐
+[ Build 👷 • Break ⚡ • Secure 🔐]
 
 <img src="/knight.png"/>
 
@@ -41,7 +41,7 @@ Everything we do is driven by one goal: building a stronger, more capable, and m
   [4th3n4](https://github.com/Adablessing)
 
 ## Follow Us
-- [Instagram](https://instagram.com/knight_dojo)  
-- [Twitter](https://twitter.com/knight_dojo)
+- [Instagram](https://instagram.com/dirlab.io)  
+- [Twitter](https://twitter.com/dirlab-io)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knight-dojo)](https://github.com/anuraghazra/github-readme-stats)
